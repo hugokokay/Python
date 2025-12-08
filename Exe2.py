@@ -1,0 +1,5 @@
+print('Digite seu nome :')
+nome=str(input())
+print('Olá',nome,'! Seja bem vindo(a)!')
+print('Você está aprendendo Python!')
+print('Olá {}, seja bem vindo(a)!'.format(nome))
